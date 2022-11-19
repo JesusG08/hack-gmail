@@ -47,6 +47,8 @@ distribution’s package manager. or just read python installing guide.
   but always u can use the inbuild password list. feel free to use that list in any type attack. (pwdlist: rockyou.txt) 
   hope this script will help you. Good luck! 
 
-
+#
+<h2><b><i> Show Support Me 👇👇👇</b></i> </h2>
+<a href="https://www.buymeacoffee.com/r3dhulk"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/r3dhulk" /></a><br><br>
    
 
