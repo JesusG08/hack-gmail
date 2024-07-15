@@ -32,7 +32,8 @@ try:
 	smtpserver.ehlo()
 	smtpserver.starttls()
 
-	user = input(" [*] Enter The Target Gmail Adress => ")
+	user alejandro.cambara96@gmail.com=input(" [*] Enter The Target Gmail Adress => ")
+
 
 	print("\n")
 
